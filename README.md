@@ -1,3 +1,6 @@
+##Coding仓库地址
+https://e.coding.net/billionbook/baiduyuyin_tts/baiduTTS.git
+
 ## 百度语音合成TTS离线二次封装
 > 百度官方的SDK不支持cocoapods集成,所以就有了这个库. 其中官方的SDK中有个静态库libBaiduSpeechSDK.a比较大有200M+, 用了`git lfs` 才传上来 pod installs时估计也会比较久,请耐心等待.
 > APPID,APPKEY,SecretKey这三个请自行去百度云官网上申请,语音TTS是免费的.
